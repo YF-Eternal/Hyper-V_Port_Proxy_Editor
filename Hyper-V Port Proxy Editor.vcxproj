@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="maim_en-us.cpp" />
+    <ClCompile Include="main_en-us.cpp" />
     <ClCompile Include="main_zh-cn.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
