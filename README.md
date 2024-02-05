@@ -11,8 +11,8 @@
 
 ##
 ### 1. Install
-* 解压`Hyper-V Port Proxy Editor.zip`。
-* 双击运行`Hyper-V Port Proxy Editor.exe`。
+* Unzip`Hyper-V Port Proxy Editor.zip`。
+* Double click to run`Hyper-V Port Proxy Editor.exe`。
 
 ### 2. Finish
 * Follow the software prompts.
