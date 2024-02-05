@@ -1,7 +1,7 @@
 # Hyper-V port mapping management software
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 
-### [English](README.md)  | 中文
+### [English]  | 中文(README-CN.md)
 
 🌍 Can run in Windows10/11 operating system (Windows7 has not been tested).
 
