@@ -14,4 +14,4 @@
 * 双击运行`Hyper-V Port Proxy Editor.exe`。
 
 ### 2. 完成
-* 按软件提示进行操作
+* 按软件提示进行操作。
